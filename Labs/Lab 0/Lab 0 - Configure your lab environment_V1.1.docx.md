@@ -45,9 +45,9 @@
 ### **Task 2: Creating Microsoft 365 Users**
 
 1.  Navigate to the Microsoft 365 admin center using
-    - [**https://admin.microsoft.com**](urn:gd:lg:a:send-vm-keys)
+    - +++**https://admin.microsoft.com**+++ . If required, sign in with your Office 365 Admin tenant credentials.
 
-2.  From the left navigation, select **Users \>** **Active users** page,
+2.  From the left navigation, select **Users >** **Active users** page,
     you can see the users.
 
      ![](./media/image9.png)
@@ -60,7 +60,7 @@
 
 11. To reset the same password for all the users, uncheck all check
     boxes and enter password as
-    : **[Pa$$w0rd](urn:gd:lg:a:send-vm-keys)@124** and then click
+    : +++**Pa$$w0rd@124**+++ and then click
     on **Reset password**.
 
      ![A screenshot of a computer Description automatically generated](./media/image11.png)
