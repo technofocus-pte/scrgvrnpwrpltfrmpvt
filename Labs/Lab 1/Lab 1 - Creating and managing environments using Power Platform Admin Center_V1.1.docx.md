@@ -149,8 +149,7 @@ and not have your work affect end users (non-admins)
     Close** button
 
 [TABLE]
-
-     ![A screenshot of a computer Description automatically generated](./media/image20.png)
+    ![A screenshot of a computer Description automatically generated](./media/image20.png)
 
 ### **Task 5: Assign the new security role to an administrative user**
 
