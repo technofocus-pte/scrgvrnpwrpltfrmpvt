@@ -1,4 +1,4 @@
-**Lab 0: Setting up lab environment**
+# **Lab 0: Setting up lab environment**
 
 ### **Task 1: Assign** **Power Apps trial license** 
 
