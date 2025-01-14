@@ -7,8 +7,7 @@ in the screenshots and images. The reason is because Power Apps uses AI
 to generate data for the lab and the data changes daily.
 
 1.  Sign into Power
-    Apps +++**https://make.powerapps.com/**+++ using
-    your Office 365 tenant credentials.
+    Apps +++**https://make.powerapps.com/**+++ using your Office 365 tenant credentials.
 
 2.  Ensure that you are in your developer environment - **Dev One**. If
     not, click on the environment selector and select **Dev One**.
