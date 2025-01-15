@@ -14,7 +14,7 @@
 
      ![A screenshot of a computer Description automatically generated](./media/image2.png)
 
-4.  Select **Search** from left navigation pane.** **Click on **Start
+4.  Select **Search** from left navigation pane. Click on **Start
     recording user and admin activity**.
 
      ![A screenshot of a computer Description automatically generated](./media/image3.png)
