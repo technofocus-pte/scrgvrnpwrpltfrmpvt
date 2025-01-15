@@ -2,7 +2,7 @@
 
 ### **Task 1: Create a flow using Copilot**
 
-1.  Sign in to +++**https://make.powerautomate.com/**+++ with your Office 365
+1.  Sign in to !!**https://make.powerautomate.com/**!! with your Office 365
     admin tenant credentials.
 
 2.  Select **Dev One** environment from environment selector.
@@ -10,7 +10,7 @@
      ![](./media/image1.png)
 
 3.  In the text box under Create your automation with copilot, type
-    +++**When a new item is created in SharePoint, send me an email**+++ and
+    !!**When a new item is created in SharePoint, send me an email**!! and
     then click on **Generate** button.
 
      ![](./media/image2.png)
@@ -47,7 +47,7 @@
 
      ![A screenshot of a computer Description automatically generated](./media/image9.png)
 
-11. Enter **Site name** – +++**Testing**+++, **site description** – +++**Training**+++, keep
+11. Enter **Site name** – !!**Testing**!!, **site description** – !!**Training**!!, keep
     the generated site address as is and then select **Next**.
 
      ![](./media/image10.png)
@@ -125,7 +125,7 @@
      ![A picture containing text, screenshot, web page, software Description automatically generated](./media/image25.png)
 
 3.  To run the flow, create an item in the list in SharePoint.
-    Considering you are on **Testing site \> Mylist** page, select
+    Considering you are on **Testing site > Mylist** page, select
     **+Add new item**.
 
      ![A screenshot of a computer Description automatically generated](./media/image26.png)
@@ -135,7 +135,7 @@
      ![A screenshot of a computer Description automatically generated](./media/image27.png)
 
 5.  Your flow is running now, to check the status, come back to Power
-    Automate portal, click on back arrow **\<-** appearing before the
+    Automate portal, click on back arrow **<-** appearing before the
     name of the flow.
 
      ![A close up of a logo Description automatically generated](./media/image28.png)
