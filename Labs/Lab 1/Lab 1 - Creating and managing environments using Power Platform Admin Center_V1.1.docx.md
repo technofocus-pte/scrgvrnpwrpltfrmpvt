@@ -14,6 +14,10 @@ updates and features to certain Microsoft Power Platform services. You
 have two options to choose from after creating an environment.
 
 [TABLE]
+Service	               Setting	         Description
+Canvas app authoring   Frequent	    Get access the latest updates and newest features multiple times a month.
+	                   Moderate	    Get access to updates and features at least once a month.
+
 
 To set refresh cadence:
 
