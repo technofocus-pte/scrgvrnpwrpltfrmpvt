@@ -1,4 +1,4 @@
-# **Lab 3: Creating a flow using the cloud flows designer with Copilot (preview)**
+# **Lab 3: Creating a flow using the cloud flows designer with Copilot**
 
 ### **Task 1: Create a flow using Copilot**
 
