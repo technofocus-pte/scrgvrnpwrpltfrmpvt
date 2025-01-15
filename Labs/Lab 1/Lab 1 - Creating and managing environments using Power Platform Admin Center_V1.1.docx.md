@@ -94,7 +94,7 @@ and not have your work affect end users (non-admins)
 
      ![A screenshot of a computer Description automatically generated](./media/image10.png)
 
-### **Task 4 - Create a new custom security role that only has access to "Security Role" table**
+### **Task 4: Create a new custom security role that only has access to "Security Role" table**
 
 1.  Open a new tab and navigate
     to !!**https://make.powerapps.com**!! . If
