@@ -2,7 +2,7 @@
 
 1.  Sign into **Microsoft Copilot Studio** with your **Office 365 admin
     tenant** credentials
-    using +++**https://copilotstudio.microsoft.com/**+++
+    using !!**https://copilotstudio.microsoft.com/**!!
 
 2.  If asked, select **United States** as your country/region and then
     select **Start free trial.**
@@ -30,7 +30,7 @@
     agent by naming it, selecting the language, and also optionally choosing
     if you want to boost your conversations with generative answers.
 
-7.  Name your agent as +++**Real Estate Booking Service**+++ and then click
+7.  Name your agent as !!**Real Estate Booking Service**!! and then click
     on **+Add knowledge.**
 
      ![A screenshot of a computer Description automatically generated](./media/image6.png)
@@ -40,7 +40,7 @@
      ![](./media/image7.png)
 
 9.  Under the webpage link, enter
-    the +++**https://powerplatform.microsoft.com/**+++ and
+    the !!**https://powerplatform.microsoft.com/**!! and
     then select **Add**.
 
      ![A screenshot of a computer Description automatically generated](./media/image8.png)
@@ -72,7 +72,7 @@
     description in the **Create a topic to...** space. In the **Name
     your topic** field, enter the following text:
 
-     +++**Book a Real Estate Showing**+++
+     !!**Book a Real Estate Showing**!!
 
 14. In the **Create a topic to...** field, enter the following text and
     then select **Create**.
@@ -107,7 +107,7 @@
 18. In the Test your agent pane, enter the following trigger phrase and
     click on send icon.
 
-     +++**I want to book a real estate showing**+++
+     !!**I want to book a real estate showing**!!
 
      ![](./media/image17.png)
 
@@ -121,7 +121,7 @@
     
      **Email address:** Your email address
     
-     **Address:** 555 Oak Lane, Denver, CO 80203
+     **Address:** !!555 Oak Lane, Denver, CO 80203!!
     
      **Date and Time:** 10/10/2025 10:00 AM
 
