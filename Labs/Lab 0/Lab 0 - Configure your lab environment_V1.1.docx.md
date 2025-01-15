@@ -32,7 +32,7 @@
      ![A screenshot of a computer Description automatically generated](./media/image6.png)
 
 7.  Open the new tab and go to Power Platform admin center by navigating
-    to <https://admin.powerplatform.microsoft.com> and if required, sign
+    to !!**https://admin.powerplatform.microsoft.com**!! and if required, sign
     in using your given Office 365 tenant admin credentials.
 
      ![A screenshot of a computer Description automatically generated](./media/image7.png)
@@ -45,7 +45,7 @@
 ### **Task 2: Creating Microsoft 365 Users**
 
 1.  Navigate to the Microsoft 365 admin center using
-    - +++**https://admin.microsoft.com**+++ . If required, sign in with your Office 365 Admin tenant credentials.
+    - !!**https://admin.microsoft.com**!! . If required, sign in with your Office 365 Admin tenant credentials.
 
 2.  From the left navigation, select **Users >** **Active users** page,
     you can see the users.
@@ -60,7 +60,7 @@
 
 11. To reset the same password for all the users, uncheck all check
     boxes and enter password as
-    : +++**Pa$$w0rd@124**+++ and then click
+    : !!**Pa$$w0rd@124**!! and then click
     on **Reset password**.
 
      ![A screenshot of a computer Description automatically generated](./media/image11.png)
@@ -75,7 +75,7 @@
 
      ![A screenshot of a computer Description automatically generated](./media/image13.png)
 
-14. On ‘**Manage product licenses’** pane, select **Assign more**, check
+14. On **Manage product licenses** pane, select **Assign more**, check
     the checkbox for **Microsoft Power Apps for Developer** license and
     then select **Save changes**.
 
