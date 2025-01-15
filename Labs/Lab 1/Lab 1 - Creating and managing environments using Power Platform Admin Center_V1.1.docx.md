@@ -14,15 +14,11 @@ updates and features to certain Microsoft Power Platform services. You
 have two options to choose from after creating an environment.
 
 [TABLE]
-Service	               Setting	         Description
-Canvas app authoring   Frequent	    Get access the latest updates and newest features multiple times a month.
-	                   Moderate	    Get access to updates and features at least once a month.
-
 
 To set refresh cadence:
 
 1.  Browse to the Power Platform Admin Center
-    at +++**https://admin.powerplatform.microsoft.com**+++ and
+    at !!**https://admin.powerplatform.microsoft.com**!! and
     sign in with your Office 365 tenant credentials. 
 
 2.  From left navigation pane, select **Manage** > **Environments** and
@@ -39,17 +35,17 @@ To set refresh cadence:
 
      ![](./media/image3.png)
     
-> **Note:**
-
-- By default, environments are automatically in
-  the **frequent** cadence; creating and editing canvas apps will
-  receive updates once a week. When apps are published, they will
-  receive the corresponding runtime version.
-
-- If you've chosen the **moderate** cadence for the environment, all
-  creating and editing of canvas apps will receive updates once a month.
-  When apps are published, they will receive the corresponding runtime
-  version.
+	 **Note:**
+	
+	- By default, environments are automatically in
+	  the **frequent** cadence; creating and editing canvas apps will
+	  receive updates once a week. When apps are published, they will
+	  receive the corresponding runtime version.
+	
+	- If you've chosen the **moderate** cadence for the environment, all
+	  creating and editing of canvas apps will receive updates once a month.
+	  When apps are published, they will receive the corresponding runtime
+	  version.
 
 ### **Task 2: Control who can create and manage environments in the Power Platform Admin Center**
 
@@ -101,7 +97,7 @@ and not have your work affect end users (non-admins)
 ### **Task 4 - Create a new custom security role that only has access to "Security Role" table**
 
 1.  Open a new tab and navigate
-    to +++**https://make.powerapps.com**+++ . If
+    to !!**https://make.powerapps.com**!! . If
     required, sign in with your Office 365 tenant credentials.
 
 2.  Select your **Dev One** environment.
@@ -113,7 +109,7 @@ and not have your work affect end users (non-admins)
 
      ![A screenshot of a computer Description automatically generated](./media/image12.png)
 
-4.  **Dynamics 365** opens in separate tab. Click on **Settings \>
+4.  **Dynamics 365** opens in separate tab. Click on **Settings >
     Options.**
 
      ![A screenshot of a computer Description automatically generated](./media/image13.png)
@@ -143,7 +139,7 @@ and not have your work affect end users (non-admins)
      ![A screenshot of a computer Description automatically generated](./media/image18.png)
 
 10. In the **Role Name** field, enter a name for the new role -
-    **Security update**. In the **Business unit** field, select the
+    !!**Security update**!!. In the **Business unit** field, select the
     business unit the role belongs to. Select **Save**.
 
     ![A screenshot of a computer Description automaticallygenerated](./media/image19.png)
@@ -152,7 +148,7 @@ and not have your work affect end users (non-admins)
     Role** table privileges as follows. Click on **Save and
     Close** button
 
-[TABLE]
+	[TABLE]
     ![A screenshot of a computer Description automatically generated](./media/image20.png)
 
 ### **Task 5: Assign the new security role to an administrative user**
@@ -161,7 +157,7 @@ and not have your work affect end users (non-admins)
 
      ![A screenshot of a computer Description automatically generated](./media/image21.png)
 
-2.  Click on **Users + permissions - \> Users**.
+2.  Click on **Users + permissions - > Users**.
 
      ![A screenshot of a computer Description automatically generated](./media/image22.png)
 
