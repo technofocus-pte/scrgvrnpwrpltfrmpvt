@@ -7,7 +7,7 @@ in the screenshots and images. The reason is because Power Apps uses AI
 to generate data for the lab and the data changes daily.
 
 1.  Sign into Power
-    Apps +++**https://make.powerapps.com/**+++ using your Office 365 tenant credentials.
+    Apps !!**https://make.powerapps.com/**!! using your Office 365 tenant credentials.
 
 2.  Ensure that you are in your developer environment - **Dev One**. If
     not, click on the environment selector and select **Dev One**.
@@ -17,7 +17,7 @@ to generate data for the lab and the data changes daily.
 3.  On the Home page in Power Apps, in the center text field, enter the
     following prompt to search for an AI-generated table:
 
-     +++**Build an app to manage real estate showings**+++
+     !!**Build an app to manage real estate showings**!!
     
      Select the **Send** button.
 
@@ -47,7 +47,7 @@ to generate data for the lab and the data changes daily.
     lower part of the Copilot pane to the right of the screen, enter the
     following text and select the **Send** button.
 
-     +++**Rename Feedback column as Details**+++
+    !!**Rename Feedback column as Details**!!
 
      This will rename Feedback column as Details in the showings table.
 
@@ -57,7 +57,7 @@ to generate data for the lab and the data changes daily.
     lower part of the Copilot pane to the right of the screen, enter the
     following text:
 
-     In showing table add a new column as client full name
+     !!**In showing table add a new column as client full name**!!
 
      This will add a column in the showings table. Select the **Send** button.
 
@@ -71,8 +71,8 @@ to generate data for the lab and the data changes daily.
 
      ![A screenshot of a computer Description automatically generated](./media/image10.png)
 
-12. When the app first loads, a dialog might appear stating “**Welcome
-    to Power Apps Studio”**. If so, select the **Skip** button.
+12. When the app first loads, a dialog might appear stating **Welcome
+    to Power Apps Studio**. If so, select the **Skip** button.
 
      ![A screenshot of a computer Description automatically generated](./media/image11.png)
 
@@ -126,15 +126,15 @@ to generate data for the lab and the data changes daily.
 3.  Fill in the fields with the following information and then select
     the check mark in the upper-right corner of the screen.
 
-     **Showing:** Showing 6
+     **Showing:** !!Showing 6!!
 
      **Showing Date:** Enter any future date
     
      **Time:** 09:00
     
-     **Agent Name:** John Almeda
+     **Agent Name:** !!John Almeda!!
     
-     **Details:** Spacious
+     **Details:** !!Spacious!!
     
      **Property:** Select any from the suggestions.
 
@@ -146,7 +146,7 @@ to generate data for the lab and the data changes daily.
      ![A screenshot of a computer Description automatically generated](./media/image22.png)
 
 5.  You will be navigated to the editing window. Select **Ok** on the
-    ‘**Did you know**’ pop-up window.
+    **Did you know** pop-up window.
 
      ![A white background with black text Description automatically generated](./media/image23.png)
 
@@ -159,7 +159,7 @@ to generate data for the lab and the data changes daily.
 
     ![A screenshot of a computer Description automaticallygenerated](./media/image25.png)
 
-8.  Select **\<- Back** to go back on the home page.
+8.  Select **<- Back** to go back on the home page.
 
      ![A screenshot of a computer Description automatically generated](./media/image26.png)
 
@@ -184,7 +184,7 @@ to generate data for the lab and the data changes daily.
     ![A screenshot of a chat Description automaticallygenerated](./media/image30.png)
 
 4.  Open Outlook account of the Adele Vance with Login id -
-    adelev@wwlx409449.onmicrosoft.com and Password – +++**Pa$$w0rd@124**+++.
+    adelev@wwlx409449.onmicrosoft.com and Password – !!**Pa$$w0rd@124**!!.
     You can see the mail received from MOD Admin. Select **Open the
     App**.
 
