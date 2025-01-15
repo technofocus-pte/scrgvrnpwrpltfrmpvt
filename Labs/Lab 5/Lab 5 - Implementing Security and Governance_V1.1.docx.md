@@ -14,13 +14,12 @@ for each theme as it relates to governing Power Platform.
 
 1.  Open new tab in the same browser and navigate to **Microsoft 365
     admin
-    center** using [**https://admin.microsoft.com**](urn:gd:lg:a:send-vm-keys).
+    center** using !!**https://admin.microsoft.com**!!
     Sign in with your Office 365 tenant credentials.
 
-2.  Select **Teams & groups** \> **Active teams & groups**.
+2.  Select **Teams & groups** > **Active teams & groups**.
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/image1.png)
+     ![A screenshot of a computer Description automatically generated](./media/image1.png)
 
 3.  Select **Security group** tab and then select **+Add a security
     group**.
