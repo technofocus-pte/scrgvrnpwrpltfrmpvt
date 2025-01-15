@@ -24,10 +24,9 @@ for each theme as it relates to governing Power Platform.
 3.  Select **Security group** tab and then select **+Add a security
     group**.
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/image2.png)
+ ![A screenshot of a computer Description automatically generated](./media/image2.png)
 
-4.  Add the group Name: [**PPS-security**
+4.  Add the group Name: **PPS-security**
     and** Description:**](urn:gd:lg:a:send-vm-keys) Power Platform
     architecture and governance security group and then click **Next**.
 
